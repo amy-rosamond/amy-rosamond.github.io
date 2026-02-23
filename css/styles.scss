@@ -1,0 +1,37 @@
+@use "../css/components/animista";
+
+@use "../css/general/modals";
+@use "../css/general/tags";
+@use "../css/general/text";
+
+@use "../css/layout/container";
+@use "../css/layout/header";
+@use "../css/layout/footer";
+
+@use "../css/layout/pages/contact";
+@use "../css/layout/pages/projects";
+@use "../css/layout/pages/services";
+
+:root {
+    --background: rgb(54, 55, 57);
+    --background-img: url(../img/bg/wood-bg.jpg);
+    --primary: rgb(54, 55, 57);
+    // #ff9300
+    --secondary: rgb(255, 147, 0);
+    // #0094AC
+    // --secondary: rgb(0, 148, 172);
+    --white: #fff;
+    --black: #191919;
+    --grey: rgb(77, 78, 80);
+    --dark-grey: rgb(36, 37, 39);
+
+    // before logo change
+    
+    // --background: rgb(57, 58, 60);
+    // --primary: rgb(57, 58, 60);
+    // --dark-grey: rgb(41, 42, 44);
+
+    --yellow: rgb(251, 251, 114);
+    --light-yellow: rgb(244, 244, 158);
+    --fontfamily-BIZ: 'BIZ UDPMincho', serif;
+}
