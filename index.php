@@ -28,9 +28,6 @@ include('footer.php');
     window.addEventListener('load', function() {
         pageOnload('index');
     });
-    // window.onload = function() {
-    //     pageOnload('index');
-    // }
 </script>
 
 </body>
