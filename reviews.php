@@ -18,10 +18,6 @@ include('footer.php');
     window.addEventListener('load', function() {
         pageOnload('reviews');
     });
-    
-    // window.onload = function() {
-    //     pageOnload('reviews');
-    // }
 </script>
 
 </body>
