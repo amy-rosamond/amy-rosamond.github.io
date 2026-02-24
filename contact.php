@@ -141,10 +141,6 @@ include('footer.php');
     window.addEventListener('load', function() {
         pageOnload('contact');
     });
-
-    // window.onload = function() {
-    //     pageOnload('contact');
-    // }
 </script>
 
 </body>
